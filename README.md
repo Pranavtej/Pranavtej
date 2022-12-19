@@ -1,13 +1,13 @@
 Hi 👋 My name is Pranav Teja
 ============================
 
-Web Designer
+Web Developer
 ------------
 
 * 🌍  I'm based in india
 * 🖥️  See my portfolio at [pranavteja.tech](https://www.pranavteja.tech)
 * ✉️  You can contact me at [pranav\_mcr@srkrec.edu.in](mailto:pranav_mcr@srkrec.edu.in)
-* 🧠  I'm learning Ionic , Angular
+* 🧠  I'm learning React
 * 🤝  I'm open to collaborating on intresting projects
 
 ### Skills
