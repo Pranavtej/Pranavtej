@@ -1,4 +1,4 @@
-Hi 👋 My name is Pranav Teja
+Hi 👋 I am Pranav Teja
 ============================
 
 Web Developer
