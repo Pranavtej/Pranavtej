@@ -15,7 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-https://medium.com/@pranav_mcr/connecting-to-database-with-php-5cfa2284321b
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
