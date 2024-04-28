@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavtej&label=Profile%20views&color=0e75b6&style=flat" alt="pranavtej" /> </p>
 
-- 🔭 I’m currently working on **React Native Application**
+- 🔭 I’m currently working on a **React Native Application**
 
 - 🌱 I’m currently learning **React Native**
 
