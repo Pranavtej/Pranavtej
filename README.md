@@ -11,7 +11,7 @@
 
 - 📫 You can contact me at **pranav_mcr@srkrec.edu.in**
 
-- 📄 Know about my experiences [Resume](http://pranavteja.tech/files/PranavTejaResume.pdf)
+- 📄 Know about my experiences [Resume](http://pranavteja.vercel.app/resume)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
