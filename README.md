@@ -3,14 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavtej&label=Profile%20views&color=0e75b6&style=flat" alt="pranavtej" /> </p>
 
-- 🔭 I’m currently working on a **React Native Application**
-
-- 🌱 I’m currently learning **React Native**
-
-- 💬 Ask me about **full stack development**
-
-- 📫 You can contact me at **pranav_mcr@srkrec.edu.in**
-
 - 📄 Know about my experiences [Resume](http://pranavteja.vercel.app/resume)
 
 <!--### Blogs posts-->
