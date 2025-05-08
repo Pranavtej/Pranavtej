@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hi 👋, I'm Pranav Teja</b></h1>
-<h3 align="center"><b>Full Stack Developer</b></h3>
+<h3 align="center"><b>Developer</b></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavtej&label=Profile%20views&color=0e75b6&style=flat" alt="pranavtej" /> </p>
 
@@ -7,7 +7,7 @@
 
 <!--### Blogs posts-->
 <!-- BLOG-POST-LIST:START -->
-- [Connecting to Database with PHP](https://medium.com/@pranav_mcr/connecting-to-database-with-php-5cfa2284321b?source=rss-a48c882c18c------2)
+<!-- - [Connecting to Database with PHP](https://medium.com/@pranav_mcr/connecting-to-database-with-php-5cfa2284321b?source=rss-a48c882c18c------2)-->
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
