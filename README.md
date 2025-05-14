@@ -5,12 +5,6 @@
 
 - 📄 Know about my experiences [Resume](http://pranavteja.vercel.app/resume)
 
-<!--### Blogs posts-->
-<!-- BLOG-POST-LIST:START 
-- [Connecting to Database with PHP](https://medium.com/@pranav_mcr/connecting-to-database-with-php-5cfa2284321b?source=rss-a48c882c18c------2)-->
-- [Connecting to Database with PHP](https://medium.com/@pranav_mcr/connecting-to-database-with-php-5cfa2284321b?source=rss-a48c882c18c------2)
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/impranavteja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="impranavteja" height="30" width="40" /></a>
